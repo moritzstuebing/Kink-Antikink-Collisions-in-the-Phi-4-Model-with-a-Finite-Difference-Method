@@ -1,8 +1,6 @@
 ## Kink-Antikink Collisions in the $\phi^4$ Model
 
-![Collision snapshot](./assets/collision-example.png)
-
-Simulating collisions between topological solitons, specifically kink-antikink collisions in the $\phi^4$ model, using a finite difference simulation scheme.
+Simulating collisions between topological solitons, specifically kink-antikink collisions in the $\phi^4$ model, using a finite difference simulation scheme. Identified velocity thresholds for interesting observable behaviour consistent with published results.
 
 ## Key Results
 - Critical velocity threshold. For initial velocity greater than $v = 0.2598$, the pair of waves always undergo a single inelastic collision before escaping to spatial infinity. We call this a one-bounce interaction. Some energy is lost in the collision, as is observed by the lower final velocity than initial.
@@ -13,10 +11,5 @@ Simulating collisions between topological solitons, specifically kink-antikink c
 The complete write-up, including derivations and full results, is available
 [here](./Kink_Antikink_Collisions_in_Phi4_Model.pdf).
 
-## Repository Structure
-...
-
-## Running the Simulations
-```matlab
-...
-```
+## Code
+The MATLAB code, which can be altered to reproduce the results in the report, is available [here](./kinkantikinkcollisionsphi4.m).
