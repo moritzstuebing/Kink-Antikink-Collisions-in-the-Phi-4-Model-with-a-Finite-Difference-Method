@@ -7,6 +7,13 @@ Simulating collisions between topological solitons, specifically kink-antikink c
 - Lower trapping threshold. For $v \le 0.193$, the pair collide and are trapped in a permanant oscillatory state. This is due to the lack of sufficient energy to escape the mutual attraction between them.
 - More complex behaviour in the intermediate window. Specifically, two-bounce windows observed.
 
+## Result Diagrams
+
+[Kink-antikink collision, v = 0.35](./images/phi-4)
+
+*One-bounce interaction at v = 0.35 (t = 0, 10, 17, 19, 20, 22, 27, 45): the kink and
+antikink approach, collide, and reflect apart to infinity.*
+
 ## Full Report
 The complete write-up, including derivations and full results, is available
 [here](./Kink_Antikink_Collisions_in_Phi4_Model.pdf).
