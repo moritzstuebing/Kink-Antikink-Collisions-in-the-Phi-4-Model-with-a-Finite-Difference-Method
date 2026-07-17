@@ -18,7 +18,7 @@ antikink approach, collide, and reflect apart to infinity.*
 
 *Displays the center of the domain ($x = 0$) across time steps for different starting velocities. Dips in $u(0, t)$ indicate when collisions occur.*
 
-Can also be found in the report
+Can also be found in the report.
 
 ## Full Report
 The complete write-up, including derivations and full results, is available
