@@ -9,10 +9,16 @@ Simulating collisions between topological solitons, specifically kink-antikink c
 
 ## Result Diagrams
 
-[Kink-antikink collision, v = 0.35](./images/phi-4)
+[Kink-antikink collision, v = 0.35](./images/phi-4.png)
 
 *One-bounce interaction at v = 0.35 (t = 0, 10, 17, 19, 20, 22, 27, 45): the kink and
 antikink approach, collide, and reflect apart to infinity.*
+
+[One and two-bounce interaction comparison](./images/velocity_comparison.png)
+
+*Displays the center of the domain ($x = 0$) across time steps for different starting velocities. Dips in $u(0, t)$ indicate when collisions occur.*
+
+Can also be found in the report
 
 ## Full Report
 The complete write-up, including derivations and full results, is available
