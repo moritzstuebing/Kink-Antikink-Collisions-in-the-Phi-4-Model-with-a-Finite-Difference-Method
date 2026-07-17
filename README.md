@@ -11,7 +11,7 @@ Simulating collisions between topological solitons, specifically kink-antikink c
 
 ## Full Report
 The complete write-up, including derivations and full results, is available
-[here](./report.pdf).
+[here](./Kink_Antikink_Collisions_in_Phi4_Model.pdf).
 
 ## Repository Structure
 ...
